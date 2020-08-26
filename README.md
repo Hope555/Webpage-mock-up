@@ -53,8 +53,9 @@ This project is built by Vue and Vuetify.
 
 ## Build instructions
 ```
-git clone xxx
-cd xxx
+git clone https://github.com/Hope555/Webpage-mock-up.git
+cd Webpage-mock-up
 npm install
 npm run serve
 ```
+Then access http://localhost:8080/ in browser.
